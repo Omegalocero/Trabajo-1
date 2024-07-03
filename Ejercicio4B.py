@@ -1,0 +1,6 @@
+Nombre = input("Ingrese su nombre ")
+Comision = int(input("Ingrese a que comision presente "))
+Asignatura = input("Ingrese a que asignatura presenta ")
+Docente = input("Ingrese el nombre del docente ")
+Presencia = input("Escriba presente o ausente dependiendo si asistio a las clases ")
+print("bienvenido",Nombre,"de la comision ",Comision, "y asignatura de",Asignatura, "con el dosente:", Docente, "el cual estuvo", Presencia ,"en la cursada.")
